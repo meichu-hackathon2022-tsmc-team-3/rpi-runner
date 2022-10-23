@@ -1,8 +1,8 @@
 import RPi.GPIO as GPIO
 import time
 
-GREEN = 38
-YELLOW = 40
+GREEN = 40
+YELLOW = 38
 
 def blink(res):
 
